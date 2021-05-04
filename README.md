@@ -1,6 +1,6 @@
 # animate-text-loading
 
-Youtube: https://www.youtube.com/channel/UCzRRgR82dqO2dp0jxjmkg-g
+Youtube Video: https://www.youtube.com/watch?v=EQKENax0M6s
 
 
 MIT License
